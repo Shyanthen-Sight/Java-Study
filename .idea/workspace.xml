@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8191266e-c4ed-4368-903a-3b877043a423" name="更改" comment="first commit：上传JavaStudy全部学习代码" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/Shyanthen/Desktop/JavaStudy" value="3J5geTvqnisOcwR4Gm00C81Pv4H" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3J5ULG1ymE3y4vqWKkSxw85kRTy" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AboutClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AboutThis.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CprTrangleSqu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MemberDefault.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OuterInner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Point.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScoreTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.add.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arraySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.classGrades.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.getPostFee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.getSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hm1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.judgeGrades.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mathFormat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodReload.executor&quot;: &quot;Run&quot;,
+    &quot;Application.staticTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.stu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.student_grade.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ticketsAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tool.executor&quot;: &quot;Run&quot;,
+    &quot;Application.type_change.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Shyanthen/Desktop/JavaStudy&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Shyanthen/Desktop/JavaStudy/test/classTest2/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.input.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.output.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.test.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shyanthen\Desktop\JavaStudy\test\inheritance" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="shopping" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stu" />
+      <module name="OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.stu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8191266e-c4ed-4368-903a-3b877043a423" name="更改" comment="" />
+      <created>1788950365844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788950365844</updated>
+      <workItem from="1788950366570" duration="2897000" />
+      <workItem from="1788953900977" duration="2276000" />
+      <workItem from="1788956338199" duration="1131000" />
+      <workItem from="1789356121871" duration="15073000" />
+      <workItem from="1789443662028" duration="10442000" />
+      <workItem from="1789556105850" duration="8000" />
+      <workItem from="1789556313981" duration="4683000" />
+      <workItem from="1789716199465" duration="3238000" />
+      <workItem from="1789797374516" duration="6287000" />
+      <workItem from="1789904669045" duration="2996000" />
+      <workItem from="1789960596784" duration="2274000" />
+      <workItem from="1789968484278" duration="2025000" />
+      <workItem from="1790146589214" duration="1098000" />
+      <workItem from="1790147809398" duration="2326000" />
+      <workItem from="1790161774381" duration="4167000" />
+      <workItem from="1790566852725" duration="143000" />
+      <workItem from="1790567018737" duration="66000" />
+      <workItem from="1790567107182" duration="10000" />
+      <workItem from="1790749778227" duration="1481000" />
+      <workItem from="1790751280815" duration="1567000" />
+      <workItem from="1790768717165" duration="2109000" />
+      <workItem from="1790781815675" duration="97000" />
+      <workItem from="1790781925195" duration="658000" />
+      <workItem from="1790782630721" duration="580000" />
+      <workItem from="1790783224204" duration="663000" />
+      <workItem from="1790927432164" duration="13000" />
+      <workItem from="1790927468294" duration="29000" />
+      <workItem from="1790927505343" duration="49000" />
+      <workItem from="1790932857839" duration="3000" />
+    </task>
+    <task id="LOCAL-00001" summary="更改">
+      <option name="closed" value="true" />
+      <created>1790781955954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790781955954</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit：上传JavaStudy全部学习代码">
+      <option name="closed" value="true" />
+      <created>1790783876176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790783876176</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更改" />
+    <MESSAGE value="更" />
+    <MESSAGE value="first commit：上传JavaStudy全部学习代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit：上传JavaStudy全部学习代码" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/testPackage/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Basics/untitled/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/javabean/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/enum/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/inheritance/super/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
